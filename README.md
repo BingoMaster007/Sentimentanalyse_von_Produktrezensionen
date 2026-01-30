@@ -2,9 +2,9 @@
 
 ## Wichtig: Mit python 13.3 getestet
 
-### Die Jupyter Notebooks wurden nur zu testzwecken genutzt und dienen der verbesserten Nachvollziehbarkeit.
+### Die Jupyter Notebooks wurden nur zu Testzwecken genutzt und dienen der verbesserten Nachvollziehbarkeit.
 
-### Ziel: ieses Projekt implementiert ein Klassifizierungssystem, das die Sterne-Bewertung von Amazon-Bewertungen (1-5 Sterne) vorhersagt.
+### Ziel: Dieses Projekt implementiert ein Klassifizierungssystem, das die Sterne-Bewertung von Amazon-Bewertungen (1-5 Sterne) vorhersagt.
 
 ### Daten: Die Bewertungen stammen aus einem Datensatz des McAuleyLab (2023). https://amazon-reviews-2023.github.io/
 
