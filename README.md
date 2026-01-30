@@ -8,4 +8,11 @@
 
 ### Daten: Die Bewertungen stammen aus einem Datensatz des McAuleyLab (2023). https://amazon-reviews-2023.github.io/
 
-### Testen des Programms: requirements.txt ausführen und logistic_regression.py ausführen -> es dauert einen Moment, bis die Daten heruntergalden, vorverarbeitet und das Modell trainiert und ausgewertet wurd. Der Output besteht aus den KPI's und einer mittels Matplotlib erstellten Grafik.
+## Testen des Programms: 
+
+### 1. Repo clonen
+### 2. In Projektordner wechseln
+### 3. venv erstellen und aktivieren
+### 4. requirements.txt ausführen und 
+### 5. logistic_regression.py ausführen 
+### -> es dauert einen Moment, bis die Daten heruntergeladen, vorverarbeitet und das Modell trainiert und ausgewertet wurde. Der Output besteht aus den KPI's und einer mittels Matplotlib erstellten Grafik.
